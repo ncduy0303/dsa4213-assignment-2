@@ -26,13 +26,12 @@ The primary goals of this assignment are:
 
 ```bash
 dsa4213-assignment-2/
-├── .gitignore
 ├── data/
 │   └── (This directory will be created automatically for the dataset)
-├── models/
-│   └── (This directory will be created automatically for saved models)
 ├── figures/
 │   └── (This directory stores training curves and analysis plots for the report)
+├── models/
+│   └── (This directory will be created automatically for saved models)
 ├── Assignment2.ipynb
 ├── Assignment2.pdf
 ├── README.md
